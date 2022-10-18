@@ -61,7 +61,7 @@ width: 100%;
 }
 
  span.text-red {
-    -webkit-text-stroke: 1px #f02d34;
+    -webkit-text-stroke: 1px #f5a6c8;
     margin-left: 6px;
 }
 .logo{
@@ -144,7 +144,8 @@ width: 100%;
 .hero-banner-container button{
    border-radius: 15px;
   padding: 10px 16px;
-  background-color: #f02d34;
+  background-color: 
+  #2f9ff2;
   color: white;
   border: none;
   margin-top: 40px;
@@ -212,7 +213,7 @@ text-align: end;
 }
 .footer-banner-container{
   padding: 100px 40px;
-  background-color: #f02d34;
+  background-color: #f5a6c8;
   border-radius: 15px;
   position: relative;
   height: 400px;
@@ -229,7 +230,7 @@ text-align: end;
   border-radius: 15px;
   padding: 10px 16px;
   background-color: white;
-  color: red;
+  color: #616165;
   border: none;
   margin-top: 40px;
   font-size: 18px;
